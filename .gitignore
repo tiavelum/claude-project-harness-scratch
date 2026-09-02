@@ -1,0 +1,9 @@
+# OS and editor debris
+.DS_Store
+Thumbs.db
+
+# local environment
+.env
+
+# sensitive data files live locally and in project knowledge, never in git
+sensitive-data.*
