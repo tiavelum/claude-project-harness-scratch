@@ -1,0 +1,1 @@
+# claude-project-harness-scratch
